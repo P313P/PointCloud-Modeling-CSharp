@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+obj/
+out/
+output/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Data files (large)
+*.las
+*.laz
+*.asc
+*.tif
+
+# OS
+.DS_Store
+Thumbs.db
+
+# .NET
+project.lock.json
+*.nuget.props
+*.nuget.targets
