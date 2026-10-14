@@ -109,7 +109,3 @@ dotnet run --project src/PointCloudModeling.csproj
 6. `terrain_class_map.png` — 地形分级专题图
 7. `statistics.txt` — 统计分析报告
 
-## 作者
-
-- 邹亚东 / 测绘专业
-- 课程: 三维点云场景建模编程实践
